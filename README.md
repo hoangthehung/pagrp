@@ -1,6 +1,6 @@
 
 ## Project structure
-we use spring-boot for backend and VueJS for frontend
+I use spring-boot for backend and VueJS for frontend
 
 ## How to build
 
